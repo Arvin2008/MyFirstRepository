@@ -1,0 +1,6 @@
+Robots handle exception and events according to text.
+Robot can understand text. And call different APIs according to text content.
+This is an easy mothed to implment complex project.
+We only need to define more APIs and more text items. We could write less logical code to handle error, exception or events. And text can be defined by users. 
+But we need some chip or technology to do this. Thus every one could make his robot.
+Robot will be more and more intelligent.
